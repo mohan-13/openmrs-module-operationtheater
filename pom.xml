@@ -22,12 +22,12 @@
 	</modules>
 	
 	<properties>
-		<openmrsPlatformVersion>2.4.2</openmrsPlatformVersion>
-		<openmrsLegacyUiVersion>1.11.0</openmrsLegacyUiVersion>
-		<webservices.restVersion>2.29.0</webservices.restVersion>
-		<bedmanagementVersion>5.13.0</bedmanagementVersion>
+		<openmrsPlatformVersion>2.8.9</openmrsPlatformVersion>
+		<openmrsLegacyUiVersion>2.0.0</openmrsLegacyUiVersion>
+		<webservices.restVersion>3.0.0</webservices.restVersion>
+		<bedmanagementVersion>6.1.0</bedmanagementVersion>
 		<javaxServletVersion>4.0.1</javaxServletVersion>
-		<openmrsAtomfeedVersion>2.6.2</openmrsAtomfeedVersion>
+		<openmrsAtomfeedVersion>2.6.3</openmrsAtomfeedVersion>
 		<atomfeed.version>1.10.1</atomfeed.version>
 	</properties>
 	
