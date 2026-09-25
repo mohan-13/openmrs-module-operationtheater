@@ -25,7 +25,7 @@
 		<openmrsPlatformVersion>2.8.9</openmrsPlatformVersion>
 		<openmrsLegacyUiVersion>2.0.0</openmrsLegacyUiVersion>
 		<webservices.restVersion>3.0.0</webservices.restVersion>
-		<bedmanagementVersion>6.1.0</bedmanagementVersion>
+		<bedmanagementVersion>7.2.0</bedmanagementVersion>
 		<javaxServletVersion>4.0.1</javaxServletVersion>
 		<openmrsAtomfeedVersion>2.6.3</openmrsAtomfeedVersion>
 		<atomfeed.version>1.10.1</atomfeed.version>
