@@ -12,7 +12,7 @@ import org.openmrs.api.context.Context;
 import org.openmrs.module.operationtheater.api.service.SurgicalAppointmentAttributeTypeService;
 import org.openmrs.module.webservices.rest.web.RequestContext;
 
-import static org.mockito.Matchers.any;
+import static org.mockito.Mockito.any;
 import static org.mockito.Mockito.times;
 import static org.mockito.Mockito.verify;
 
