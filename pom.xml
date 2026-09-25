@@ -29,6 +29,7 @@
 		<javaxServletVersion>4.0.1</javaxServletVersion>
 		<openmrsAtomfeedVersion>2.6.3</openmrsAtomfeedVersion>
 		<atomfeed.version>1.10.1</atomfeed.version>
+		<mockito.inline.version>3.12.4</mockito.inline.version>
 	</properties>
 	
 	<dependencies>
@@ -110,6 +111,12 @@
 			<version>${bedmanagementVersion}</version>
 			<type>jar</type>
 			<scope>provided</scope>
+		</dependency>
+		<dependency>
+			<groupId>org.mockito</groupId>
+			<artifactId>mockito-inline</artifactId>
+			<version>${mockito.inline.version}</version>
+			<scope>test</scope>
 		</dependency>
 	</dependencies>
 	
